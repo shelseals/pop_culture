@@ -1,1 +1,1 @@
-# pop_culture
+# trends
